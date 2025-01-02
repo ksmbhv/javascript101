@@ -1,6 +1,8 @@
-let filename = "harkirat"
-const age = 30;
+
 var isStudent = true;
-console.log(filename);
-console.log(age);
+isStudent = "go";
+console.log(isStudent);
+isStudent = 10;
+
+
 console.log(isStudent);
